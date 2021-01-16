@@ -441,3 +441,4 @@ $RECYCLE.BIN/
 !.vscode/launch.json
 !.vscode/extensions.json
 API/storeapp.db
+plantuml
